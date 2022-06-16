@@ -1,0 +1,10 @@
+Network: graph_jazz
+Algorithms:
+	greedy: 1
+	celf: 1
+	genetic: 10
+	aco: 10
+Threshold: 0.5
+Stop condition number: 10000
+Graph iteration number: 1
+Prior knowledge elapsed time (average): 28

@@ -1,0 +1,9 @@
+Network: socfb-Brandeis99
+Algorithms:
+	greedy: 1
+	celf: 1
+	genetic: 10
+	aco: 10
+Threshold: 0.5
+Stop condition number: 10000
+Prior knowledge elapsed time: 83412

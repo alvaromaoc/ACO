@@ -1,0 +1,10 @@
+Network: socfb-Haverford76
+Algorithms:
+	greedy: 1
+	celf: 1
+	genetic: 1
+	aco: 1
+Threshold: uniform
+Stop condition number: 5000
+Graph iteration number: 10
+Prior knowledge elapsed time (average): 15492
